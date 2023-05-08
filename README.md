@@ -17,8 +17,6 @@
 
 另外找到了[带有小部分注释的C4](https://github.com/comzyh/c4/blob/comment/c4.c)，还有一个前辈所作的[CPC](https://github.com/archeryue/cpc)
 
-
-
 ### 核心参考资料（在此感谢🙏）
 
 1. [有哪些关于c4 - C in four function 编译器的文章？](https://www.zhihu.com/question/28249756) —— 知乎 R大
