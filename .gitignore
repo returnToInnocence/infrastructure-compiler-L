@@ -1,6 +1,0 @@
-*.dSYM
-*.out
-*.o
-build/
-.vscode/
-cpc
