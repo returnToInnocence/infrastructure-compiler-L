@@ -9,15 +9,7 @@
 1. 先看懂[archer前辈](https://github.com/archeryue)的代码
 2. 再在前辈基础上进行修改 or 优化
 
-## 第一阶段·编译器入门
-
-### 前言
-
-正在学习C4实现，[C4源代码链接](https://github.com/rswier/c4)，核心将会沿着R大的文章（参考资料1）中提到的优化进行一步步探索
-
-另外找到了[带有小部分注释的C4](https://github.com/comzyh/c4/blob/comment/c4.c)，还有一个前辈所作的[CPC](https://github.com/archeryue/cpc)
-
-### 核心参考资料（在此感谢🙏）
+## 核心参考资料（在此感谢🙏）
 
 1. [有哪些关于c4 - C in four function 编译器的文章？](https://www.zhihu.com/question/28249756) —— 知乎 R大
 
